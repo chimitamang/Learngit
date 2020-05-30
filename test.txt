@@ -1,2 +1,2 @@
 Hello world 
-his is my forst txt fine in git.
+This is my first txt file in git.
